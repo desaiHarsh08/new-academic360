@@ -3,19 +3,21 @@ package com.academic360.services;
 import java.util.List;
 
 import com.academic360.dtos.StudentDto;
-import com.academic360.utils.StudentListResponse;
+import com.academic360.utils.ListResponse;
 
 public interface StudentServices {
 
     StudentDto addStudent(StudentDto studentDto);
 
-    Boolean addMultipleStudents(List<StudentDto> studentDto, String fileName);
+    Boolean addMultipleStudents(String fileName);
 
-    StudentListResponse getAllStudents();
+    ListResponse<List<StudentDto>> getAllStudents(int pageNumber);
 
-    StudentListResponse getStudentsByStream(String givenStream);
+    ListResponse<List<StudentDto>> getStudentsByStream(String givenStream, int pageNumber);
 
-    StudentListResponse getStudentsByCourse(String givenCourse);
+    ListResponse<List<StudentDto>> getStudentsByCourse(String givenCourse, int pageNumber);
+
+    StudentDto getStudentById(Long givenStudentId);
 
     StudentDto getStudentByEmail(String givenEmail);
 

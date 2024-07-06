@@ -1,5 +1,6 @@
 package com.academic360.utils;
 
+import jakarta.persistence.Column;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Getter;
@@ -17,6 +18,14 @@ public class StudentRow {
 
     private Integer id;
 
+    private String email;
+
+    private String profileImage;
+
+    private String phone;
+
+    private String uid;
+
     private String registration_no;
 
     private String stream;
@@ -31,7 +40,7 @@ public class StudentRow {
 
     private String remarks;
 
-    private Float fullMarks;
+    private Float full_marks;
 
     private Integer year1;
 

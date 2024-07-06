@@ -35,6 +35,10 @@ public class FileService {
                 if (row.length >= 20) { // Adjust the number based on the actual CSV structure
                     StudentRow studentRow = new StudentRow(
                         parseInteger(row[0]),
+                        null,
+                        null,
+                        null,
+                        null,
                         row[1],
                         row[2],
                         row[3],
@@ -73,6 +77,10 @@ public class FileService {
                 if (row.getPhysicalNumberOfCells() >= 20) { // Adjust the number based on the actual Excel structure
                     StudentRow studentRow = new StudentRow(
                         parseInteger(getCellValue(row, 0)),
+                        null,
+                        null,
+                        null,
+                        null,
                         getCellValue(row, 1),
                         getCellValue(row, 2),
                         getCellValue(row, 3),

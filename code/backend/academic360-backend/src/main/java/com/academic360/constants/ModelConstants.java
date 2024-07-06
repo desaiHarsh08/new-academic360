@@ -14,4 +14,6 @@ public class ModelConstants {
 
     public static final String SUBJECT_TABLE = "subjects";
 
+    public static final String SUBJECT_METADATA_TABLE = "subject_metadatas";
+
 }

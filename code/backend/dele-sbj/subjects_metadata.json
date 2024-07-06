@@ -1,0 +1,537 @@
+{
+    "BCOM": {
+        "1": {
+            "SPECIAL": [
+                {
+                    "subjectName": "AECC1.1CHG",
+                    "fullMarks": 100,
+                    "credit": 2
+                }
+            ],
+            "COMMON": [
+                {
+                    "subjectName": "GE1.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                },
+                {
+                    "subjectName": "CC1.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                },
+                {
+                    "subjectName": "CC1.2CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                }
+            ],
+            "HONOURS": [
+                {
+                    "subjectName": "CC1.1CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 5
+                }
+            ],
+            "GENERAL": [
+                {
+                    "subjectName": "CC1.1CG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 5
+                }
+            ],
+            "ELECTIVE": []
+        },
+        "2": {
+            "SPECIAL": [
+                {
+                    "subjectName": "AECC2.1CHG",
+                    "fullMarks": 100,
+                    "credit": 1
+                }
+            ],
+            "COMMON": [
+                {
+                    "subjectName": "GE2.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                },
+                {
+                    "subjectName": "CC2.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                },
+                {
+                    "subjectName": "CC2.2CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                }
+            ],
+            "HONOURS": [
+                {
+                    "subjectName": "CC2.1CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 5
+                }
+            ],
+            "GENERAL": [
+                {
+                    "subjectName": "CC2.1CG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 5
+                }
+            ],
+            "ELECTIVE": []
+        },
+        "3": {
+            "SPECIAL": [],
+            "COMMON": [
+                {
+                    "subjectName": "SEC3.1CHG",
+                    "fullMarks": 100,
+                    "credit": 4
+                },
+                {
+                    "subjectName": "GE3.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                }
+            ],
+            "HONOURS": [
+                {
+                    "subjectName": "CC3.1CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CC3.2CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                }
+            ],
+            "GENERAL": [],
+            "ELECTIVE": []
+        },
+        "4": {
+            "SPECIAL": [],
+            "COMMON": [
+                {
+                    "subjectName": "GE4.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                },
+                {
+                    "subjectName": "CC4.1CHG",
+                    "fullMarks": 100,
+                    "credit": 6
+                }
+            ],
+            "HONOURS": [
+                {
+                    "subjectName": "CC4.1CH",
+                    "fullMarks": 100,
+                    "credit":  6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CC4.2CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                }
+            ],
+            "GENERAL": [
+                {
+                    "subjectName": "CC4.1CG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CC4.2CG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                }
+            ],
+            "ELECTIVE": []
+        },
+        "5": {
+            "SPECIAL": [],
+            "COMMON": [],
+            "HONOURS": [
+                {
+                    "subjectName": "CC5.1CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CC5.2CH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.1AH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.2AH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.1MH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.2MH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.1TH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.2TH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.1EBH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE5.2EBH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                }
+            ],
+            "GENERAL": [
+                {
+                    "subjectName": "CC5.1CG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.1AG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.2AG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.1MG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.2MG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.1TG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.2TG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.1EBG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                },
+                {
+                    "subjectName": "DSE5.2EBG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 3
+                }
+            ],
+            "ELECTIVE": []
+        },
+        "6": {
+            "COMMON": [
+                {
+                    "subjectName": "SEC6.1CHG",
+                    "fullMarks": 100,
+                    "credit": 4
+                },
+                {
+                    "subjectName": "CC6.1CH",
+                    "fullMarks": 100,
+                    "credit": 6
+                }
+            ],
+            "HONOURS": [],
+            "GENERAL": [],
+            "ELECTIVE": [
+                {
+                    "subjectName": "DSE6.1AH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1AG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2AH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2AG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1MH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1MG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2MG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2MH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1TH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1TG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2TH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2TG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.1EBH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2EBG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2EBH",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "DSE6.2EBG",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                }
+            ]
+        }
+    },
+    "BSC": {
+        "1": {
+            "COMMON": [],
+            "HONOURS": [
+                {
+                    "subjectName": "CEMA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CEMA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "PHSG-GE1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ENGM-AECC1",
+                    "fullMarks": 100,
+                    "credit": 2,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CMSG-GE1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CMSA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CMSA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "MTMG-GE1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ECOA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ECOA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "STSG-GE1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "BNGM-AECC1",
+                    "fullMarks": 100,
+                    "credit": 2,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ELTA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ELTA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "MTMA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "MTMA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "ELTG-GE1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "PHSA-CC1",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "PHSA-CC2",
+                    "fullMarks": 100,
+                    "credit": 6,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "HINM-AECC1",
+                    "fullMarks": 100,
+                    "credit": 2,
+                    "totalSubjects": 4
+                },
+                {
+                    "subjectName": "CEMG-GE1",
+                    "fullMarks": 100,
+                    "credit": 2,
+                    "totalSubjects": 4
+                }
+            ],
+            "GENERAL": [],
+            "ELECTIVE": []
+        }
+    }
+}

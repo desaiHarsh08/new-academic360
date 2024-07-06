@@ -41,4 +41,8 @@ public class MarksheetDto {
 
     List<SubjectDto> subjects;
 
+    private Float cgpa;
+
+    private String classification;
+
 }

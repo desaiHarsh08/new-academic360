@@ -3,17 +3,20 @@ package com.academic360.services;
 import java.util.List;
 
 import com.academic360.dtos.MarksheetDto;
-import com.academic360.utils.MarksheetListResponse;
+import com.academic360.models.MarksheetModel;
+import com.academic360.models.StudentModel;
+import com.academic360.utils.ListResponse;
+import com.academic360.utils.StudentRow;
 
 public interface MarksheetServices {
 
-    MarksheetDto createMarksheet(MarksheetDto marksheetDto);
+    MarksheetDto createMarksheetDtoByStudentEntries(List<StudentRow> studentEntries, StudentModel studentModel);
 
-    MarksheetListResponse getAllMarksheets();
+    ListResponse<List<MarksheetDto>> getAllMarksheets(int pageNumber);
     
-    MarksheetListResponse getMarksheetsBySemester(Integer givenSemester);
+    ListResponse<List<MarksheetDto>> getMarksheetsBySemester(Integer givenSemester, int pageNumber);
     
-    MarksheetListResponse getMarksheetsByYearOfAppearance(Integer givenYearOfAppearance);
+    ListResponse<List<MarksheetDto>> getMarksheetsByYearOfAppearance(Integer givenYearOfAppearance, int pageNumber);
     
     List<MarksheetDto> getMarksheetsForStudent(Long givenStudentId);
 
@@ -22,5 +25,9 @@ public interface MarksheetServices {
     MarksheetDto updateMarksheet(MarksheetDto givenMarksheetDto);
 
     Boolean deleteMarksheet(Long marksheetId);
+
+    List<MarksheetModel> marksheetDtoListToModelList(List<MarksheetDto> marksheetDtoList);
+    
+    MarksheetModel marksheetDtoToModel(MarksheetDto marksheetDto);
 
 }
